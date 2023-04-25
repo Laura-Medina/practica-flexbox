@@ -1,0 +1,24 @@
+.bandera-arg{
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.franja-celeste{
+    width: 100%;
+    height: 33.33%;
+    background-color: lightblue;
+}
+
+.franja-blanca{
+    width: 100%;
+    height: 33.33%;
+    background-color: white;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
